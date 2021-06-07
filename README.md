@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://leetcode.com/abhisheknaiidu/">
+<a href="https://leetcode.com/FabianWassermann/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FabianWassermann&show_icons=true&theme=gotham" alt="FabianWassermannStats" />
