@@ -21,12 +21,13 @@ I've always been interested in programming and the way things work. Apart from t
 **Some information about myself:**
 
 - 💻 I'm currently working on a trading bot that let you trade crypto automatically
-- 🌱 I’m currently learning [Powershell](https://www.rust-lang.org/)
+- 🌱 I’m currently learning Powershell
 - 📫 You can contact me through email: fabian.wassermann04@gmail.com
 
 **GitHub Stats:**
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sunti27&show_icons=true&theme=tokyonight&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunti27&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=FabianWassermann&show_icons=true&theme=tokyonight&include_all_commits=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianWassermann&theme=tokyonight">
 </div>
