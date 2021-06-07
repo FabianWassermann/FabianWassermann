@@ -27,7 +27,7 @@ I've always been interested in programming and the way things work. Apart from t
 **GitHub Stats:**
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=FabianWassermann&show_icons=true&theme=tokyonight&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=FabianWassermann&count_private=true&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianWassermann&theme=tokyonight">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianWassermann&layout=compact&theme=tokyonight" /> -->
 </div>
