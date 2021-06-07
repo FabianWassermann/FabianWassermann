@@ -5,6 +5,7 @@ I welcome you to my profile! I'm a student of a higher technical college from Ca
 I've always been interested in programming and the way things work. Apart from that, I like playing computer games and go hiking.
 
 ![Profile views](https://gpvc.arturio.dev/FabianWassermann)
+<br>
 <a href="https://github.com/FabianWassermann">
   <img src="https://badges.pufler.dev/visits/FabianWassermann/FabianWassermann?style=flat-square&color=black&logo=github">
 </a>
