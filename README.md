@@ -20,7 +20,7 @@ I've always been interested in programming and the way things work. Apart from t
 
 ## Support Me
 
-<a href="https://www.buymeacoffee.com/F4Bz3" target="_blank"><img src="https://raw.githubusercontent.com/GitHub-Leon/FabianWassermann/master/.resources/support-buy-coffee.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/F4Bz3" target="_blank"><img height="100%" src="https://raw.githubusercontent.com/FabianWassermann/FabianWassermann/main/.resources/support-buy-coffee.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 [![Send Crypto](https://img.shields.io/badge/send%20crypto-thanks!-blueviolet)](https://github.com/FabianWassermann/FabianWassermann/blob/main/Crypto-Addesses.md)
 
