@@ -1,35 +1,29 @@
-### Hi there, I'm Fabian 👋
+# Hi there, I'm Fabian 👋
 
-I welcome you to my profile! I'm a student of a higher technical college from Carinthia, Austria.
+![Profile views](https://gpvc.arturio.dev/FabianWassermann)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:fabian.wassermann04@gmail.com)
+
+
+I'm a student of a higher technical college from Carinthia, Austria.
 
 I've always been interested in programming and the way things work. Apart from that, I like playing computer games and go hiking.
 
-![Profile views](https://gpvc.arturio.dev/FabianWassermann)
-<br>
-<a href="https://github.com/FabianWassermann">
-  <img src="https://badges.pufler.dev/visits/FabianWassermann/FabianWassermann?style=flat-square&color=black&logo=github">
-</a>
-<a href="https://github.com/FabianWassermann">
-  <img src="https://badges.pufler.dev/years/FabianWassermann?style=flat-square&color=black&logo=github">
-</a>
-<a href="https://github.com/FabianWassermann?tab=repositories">
-  <img src="https://badges.pufler.dev/repos/FabianWassermann?style=flat-square&color=black&logo=github">
-</a>
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/commits/monthly/FabianWassermann?style=flat-square&color=black&logo=github">
-</a>
-<br/><br/>
+&nbsp;
+
+<img align="right" width="50%" src="https://raw.githubusercontent.com/FabianWassermann/github-stats/master/generated/overview.svg" />
 
 **Some information about myself:**
 
-- 💻 I'm currently working on a trading bot that lets you trade crypto automatically
+- 💻 I'm currently working on a trading bot for Cryptocurrencies
 - 🌱 I’m currently learning Powershell
-- 📫 You can contact me through email: fabian.wassermann04@gmail.com
+- 📫 How to reach me: fabian.wassermann04@gmail.com
 
-**GitHub Stats:**
+## Support Me
+
+<a href="https://www.buymeacoffee.com/F4Bz3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <div>
-  <img src="https://raw.githubusercontent.com/FabianWassermann/github-stats/master/generated/overview.svg" />
+  
   <br>
-  <img src="https://raw.githubusercontent.com/FabianWassermann/github-stats/master/generated/languages.svg" />
+  <!-- <img src="https://raw.githubusercontent.com/FabianWassermann/github-stats/master/generated/languages.svg" /> -->
 </div>
