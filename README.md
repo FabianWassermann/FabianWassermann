@@ -15,7 +15,8 @@ I've always been interested in programming and the way things work. Apart from t
 **Some information about myself:**
 
 - 💻 I'm currently working on a trading bot for Cryptocurrencies
-- 🌱 I’m currently learning Powershell
+- 🖥 Working from home
+- 🌱 I’m currently learning VueJs
 - 📫 How to reach me: fabian.wassermann04@gmail.com
 
 ## Support Me
